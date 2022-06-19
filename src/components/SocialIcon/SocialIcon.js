@@ -37,7 +37,7 @@ function SocialIcon() {
       <ul>
         <li className="item">
           <a
-            href="https://www.linkedin.com/in/your_username/"
+            href="https://es.linkedin.com/in/carlos-de-la-cruz-romero-2a68621a3/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -46,7 +46,7 @@ function SocialIcon() {
         </li>
         <li className="item">
           <a
-            href="https://github.com/your_username/"
+            href="https://www.github.com/carlos94cr/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -55,7 +55,7 @@ function SocialIcon() {
         </li>
         <li className="item">
           <a
-            href="https://github.com/your_username/"
+            href="https://www.instagram.com/carloscruz_photography/"
             target="_blank"
             rel="noopener noreferrer"
           >
