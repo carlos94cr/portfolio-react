@@ -26,6 +26,9 @@ export const CardLeft = styled.div`
     transition: 0.5s;
   }
 
+  transform: scale(1);
+  transition: 0.5s;
+
   img {
     border-radius: 3px;
     height: auto;
