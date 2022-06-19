@@ -30,6 +30,14 @@ export const ProjectList = [
     technology: "PREMIERE, AFTER EFFECTS, DAVINCI RESOLVE",
     link: "https://www.youtube.com/watch?v=7xvW9Qq1e2c",
   },
+  {
+    img: "../.././images/project5.gif",
+    title: "Intro 'Stranger Things'",
+    description:
+      "Intro 'Stranger Things' adaptada para mi proyecto fotográfico.",
+    technology: "AFTER EFFECTS, DAVINCI RESOLVE",
+    link: "https://www.youtube.com/watch?v=7xvW9Qq1e2c",
+  },
 ];
 
 // TECNOLOGÍAS //
