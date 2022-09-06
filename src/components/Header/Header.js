@@ -29,7 +29,7 @@ const Header = ({ toggle }) => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Ir a mi Web
+            Web de Empresa
           </a>
         </NavBtn>
         <Bars onClick={toggle} />

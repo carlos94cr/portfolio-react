@@ -36,7 +36,7 @@ export const ProjectList = [
     description:
       "Intro 'Stranger Things' adaptada para mi proyecto fotográfico.",
     technology: "AFTER EFFECTS, DAVINCI RESOLVE",
-    link: "https://www.youtube.com/watch?v=7xvW9Qq1e2c",
+    link: "",
   },
 ];
 
